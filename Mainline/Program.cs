@@ -4,7 +4,7 @@
 using iText.Kernel.Pdf; 
 using iText.Kernel.Pdf.Canvas.Parser;
 
-const string pdfPath = "C:\\repos\\Ken_read_pdf\\Mainline\\2-Git-Github-ADO-v1.pdf";
+const string pdfPath = "C:\\repos\\Kenread_pdf\\Mainline\\2-Git-Github-ADO-v1.pdf";
 
 GetPdfPageCount(pdfPath);
 
